@@ -1,0 +1,16 @@
+{
+  "name": "hw-challenge-18-nosql-ava-j",
+  "version": "1.0.0",
+  "description": "Challenge 18 No SQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afj511"
+  },
+  "author": "Ava Jamora",
+  "license": "ISC"
+}
